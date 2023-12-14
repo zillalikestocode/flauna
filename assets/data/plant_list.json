@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Medalion Catela",
+    "image": "flower.png",
+    "price": "55.0",
+    "category": "indoor"
+  },
+  {
+    "name": "Meraon Catela",
+    "image": "intro_plant.png",
+    "price": "25.8",
+    "category": "outdoor"
+  },
+  {
+    "name": "Mesaion Catela",
+    "image": "flower2.png",
+    "price": "30.0",
+    "category": "office"
+  },
+  {
+    "name": "Meralion Catela",
+    "image": "flower3.png",
+    "price": "33.9",
+    "category": "indoor"
+  },
+  {
+    "name": "Perperomia Flex",
+    "image": "flower4.png",
+    "price": "50.0",
+    "category": "outdoor"
+  },
+  {
+    "name": "Common Sunflower",
+    "image": "flower5.png",
+    "price": "125.0",
+    "category": "office"
+  }
+]
